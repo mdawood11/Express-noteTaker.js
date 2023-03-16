@@ -26,6 +26,7 @@ AS a user I want to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete.
 
 ## Mock-Up
+https://mdawood11.github.io/Express-noteTaker.js/
 
 The following image shows a mock-up of appearance and functionality:
 
