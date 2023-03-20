@@ -48,7 +48,7 @@ module.exports = (app) => {
 
     //Update the file when a note is added
     function dbUpdate() {
-      fs.watchFile("./db/db.json", JSON.stringify(notes, "\t"), (err) => {
+      fs.writeFile("./db/db.json", JSON.stringify(notes, "\t"), (err) => {
         if (err) throw err;
         return true;
       });

@@ -1,6 +1,8 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  { "title": "Shopping", "text": "going to the shopping today", "id": 1 },
+  {
+    "title": "Oil Change",
+    "text": "Needs to change my car's oil tomorrow",
+    "id": 2
+  }
 ]
